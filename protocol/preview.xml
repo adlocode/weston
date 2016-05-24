@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protocol name="preview_v1">
+
+  <interface name="preview" version="1">
+
+  </interface>
+</protocol>
