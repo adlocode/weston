@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protocol name="window_notify_v1">
+
+  <interface name="window_notify" version="1">
+
+  </interface>
+</protocol>
